@@ -1,0 +1,32 @@
+<map>
+  <entry>
+    <int>1</int>
+    <vehicle>
+      <id>1</id>
+      <name>acasa</name>
+      <coordinates>
+        <x>1.0</x>
+        <y>1.2</y>
+      </coordinates>
+      <creationDate>2023-05-21</creationDate>
+      <enginePower>123</enginePower>
+      <type>PLANE</type>
+      <fuelType>PLASMA</fuelType>
+    </vehicle>
+  </entry>
+  <entry>
+    <int>123</int>
+    <vehicle>
+      <id>23</id>
+      <name>VVVVVV</name>
+      <coordinates>
+        <x>1232.0</x>
+        <y>53.22</y>
+      </coordinates>
+      <creationDate>2023-04-21</creationDate>
+      <enginePower>836</enginePower>
+      <type>SPACESHIP</type>
+      <fuelType>ANTIMATTER</fuelType>
+    </vehicle>
+  </entry>
+</map>

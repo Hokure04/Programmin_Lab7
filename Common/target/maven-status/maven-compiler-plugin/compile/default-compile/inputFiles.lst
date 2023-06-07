@@ -1,0 +1,15 @@
+/home/anton/Desktop/client-server/Common/src/main/java/org/example/common/requests/CommandRequest.java
+/home/anton/Desktop/client-server/Common/src/main/java/org/example/common/data/VehicleType.java
+/home/anton/Desktop/client-server/Common/src/main/java/org/example/common/responses/Response.java
+/home/anton/Desktop/client-server/Common/src/main/java/org/example/Main.java
+/home/anton/Desktop/client-server/Common/src/main/java/org/example/common/responses/BaseResponse.java
+/home/anton/Desktop/client-server/Common/src/main/java/org/example/common/exceptions/TroubleCoordinateCreationException.java
+/home/anton/Desktop/client-server/Common/src/main/java/org/example/common/data/FuelType.java
+/home/anton/Desktop/client-server/Common/src/main/java/org/example/common/data/Coordinates.java
+/home/anton/Desktop/client-server/Common/src/main/java/org/example/common/requests/DescCommand.java
+/home/anton/Desktop/client-server/Common/src/main/java/org/example/common/exceptions/EmptyValueException.java
+/home/anton/Desktop/client-server/Common/src/main/java/org/example/common/data/Vehicle.java
+/home/anton/Desktop/client-server/Common/src/main/java/org/example/common/exceptions/TroubleObjectCreationException.java
+/home/anton/Desktop/client-server/Common/src/main/java/org/example/common/requests/StartRequest.java
+/home/anton/Desktop/client-server/Common/src/main/java/org/example/common/exceptions/UnknownCommandException.java
+/home/anton/Desktop/client-server/Common/src/main/java/org/example/common/exceptions/NoAccessToTheFileException.java
