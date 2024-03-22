@@ -1,4 +1,4 @@
-# lab7
+# Programming_Lab7
 laboratory work number 7. Team members Kargin Alexander, Zinchenko Anton
 
 1.Организовать хранение коллекции в реляционной СУБД (PostgresQL). Убрать хранение коллекции в файле.
